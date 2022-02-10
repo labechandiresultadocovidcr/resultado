@@ -1,5 +1,5 @@
 <img src="logo.jpg" style="display: block; margin: auto;" />
 
-### contacto 453 4542
+### Teléfonos +506 2251 4412
 
-[acceder al resultado](results.md)
+
