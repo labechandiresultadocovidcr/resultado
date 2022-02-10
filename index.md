@@ -1,2 +1,5 @@
 <img src="logo.jpg" style="display: block; margin: auto;" />
-[a relative link](readme.md)
+
+### contacto 453 4542
+
+[acceder al resultado](another-page.md)
