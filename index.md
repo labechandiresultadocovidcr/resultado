@@ -2,4 +2,4 @@
 
 ### contacto 453 4542
 
-[acceder al resultado](README.md)
+[acceder al resultado](results.md)
